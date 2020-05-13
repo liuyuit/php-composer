@@ -1,0 +1,21 @@
+{
+    "name": "liuyuit/php-composer-dev",
+    "description": "composer dev",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuyu",
+            "email": "liuyuit@aliyun.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+
+        }
+    }
+}
